@@ -1,0 +1,39 @@
+{
+"song1" : {
+    "song" : "Toxicity",
+    "artist" : "System of the Down",
+    "genre" : "Heavy Metal",
+    "link": "https://www.youtube.com/watch?v=iywaBOMvYLI",
+    "id": "1"
+},
+"song2" : {
+    "song" : "Carry on Wayward Son",
+    "artist" : "Kansas",
+    "genre" : "Rnb",
+    "link": "https://www.youtube.com/watch?v=P5ZJui3aPoQ",
+    "id": "2"
+},
+"song3" : {
+    "song" : "Castles",
+    "artist" : "Paper Idol",
+    "genre" : "Electric",
+    "link": "https://www.youtube.com/watch?v=ag9-3JmyPjU",
+    "id": "3"
+},
+"song4" : {
+    "song" : "Dancing Queen",
+    "artist" : "Abba",
+    "genre" : "Hip-Hop",
+    "link": "https://www.youtube.com/watch?v=xFrGuyw1V8s",
+    "id": "4"
+},
+"song5" : {
+    "song" : "Wonderwall",
+    "artist" : "Oasis",
+    "genre" : "Acoustic",
+    "link": "https://www.youtube.com/watch?v=q_c6hQD7aAw",
+    "id": "5"
+}
+
+ 
+}
